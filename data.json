@@ -1,0 +1,40 @@
+{
+    "tourist_places": [
+      {
+        "name": "Sundarbans",
+        "description": "Sundarbans is a vast forest in the coastal region of the Bay of Bengal, considered one of the natural wonders of the world. It is home to the Bengal tiger and other endangered species. Visitors can enjoy river cruises, bird watching, and exploring the mangrove forests.",
+        "hotels": 12,
+        "visiting_places": 7,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sundarban_Tiger.jpg/800px-Sundarban_Tiger.jpg"
+      },
+      {
+        "name": "Srimangal",
+        "description": "Srimangal is a scenic town known for its tea gardens and lush green forests. Visitors can go on tea garden tours, bird watching, and explore the nearby Lawachara National Park. The town is also famous for its seven-layer tea.",
+        "hotels": 22,
+        "visiting_places": 5,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Srimangal_Beautiful_View_%285%29.jpg/800px-Srimangal_Beautiful_View_%285%29.jpg"
+      },
+      {
+        "name": "Cox's Bazar",
+        "description": "Cox's Bazar is a popular beach resort town known for its long sandy beach, which is the longest natural sea beach in the world. Visitors can enjoy swimming, surfing, sunbathing, and exploring nearby islands. The town is also famous for its seafood.",
+        "hotels": 40,
+        "visiting_places": 4,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cox%27s_Bazar_Beach_in_Bangladesh.jpg/800px-Cox%27s_Bazar_Beach_in_Bangladesh.jpg"
+      },
+      {
+        "name": "Kuakata",
+        "description": "Kuakata is a seaside town located in the southwestern part of Bangladesh. It is known for its panoramic sea view, beautiful sandy beach, and stunning sunrise and sunset views. Visitors can enjoy swimming, fishing, and exploring nearby mangrove forests.",
+        "hotels": 10,
+        "visiting_places": 3,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kuakata_panorama.jpg/800px-Kuakata_panorama.jpg"
+      },
+      {
+        "name": "Rangamati",
+        "description": "Rangamati is a hilly district located in southeastern Bangladesh. It is known for its scenic beauty, hilly landscape, and diverse tribal culture. Visitors can enjoy trekking, boating, exploring waterfalls, and learning about the tribal way of life.",
+        "hotels": 6,
+        "visiting_places": 6,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Rangamati_1.jpg/800px-Rangamati_1.jpg"
+      }
+    ]
+  }
+  

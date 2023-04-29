@@ -1,0 +1,204 @@
+{
+  "tourist_places": [
+    {
+      "name": "Cox's Bazar",
+      "hotels": [
+        {
+          "name": "Pan Pacific Sonargaon",
+          "title": "Luxury hotel with ocean views",
+          "stars": 5,
+          "bedrooms": 400,
+          "price": "$200-$500 per night"
+        },
+        {
+          "name": "The Peninsula Chittagong",
+          "title": "Seaside hotel with rooftop pool",
+          "stars": 4,
+          "bedrooms": 200,
+          "price": "$100-$300 per night"
+        },
+        {
+          "name": "Sea Pearl Beach Resort & Spa",
+          "title": "Beachfront hotel with tropical gardens",
+          "stars": 4,
+          "bedrooms": 150,
+          "price": "$100-$300 per night"
+        },
+        {
+          "name": "Long Beach Hotel",
+          "title": "Contemporary resort with sea views",
+          "stars": 4,
+          "bedrooms": 200,
+          "price": "$100-$300 per night"
+        },
+        {
+          "name": "Royal Tulip Sea Pearl Beach Resort",
+          "title": "Elegant hotel with private beach access",
+          "stars": 5,
+          "bedrooms": 200,
+          "price": "$200-$500 per night"
+        }
+      ]
+    },
+    {
+      "name": "Srimangal",
+      "hotels": [
+        {
+          "name": "Grand Sultan Tea Resort & Golf",
+          "title": "Resort surrounded by tea gardens",
+          "stars": 5,
+          "bedrooms": 135,
+          "price": "$150-$400 per night"
+        },
+        {
+          "name": "Tea Heaven Resort",
+          "title": "Eco-friendly resort with organic tea farm",
+          "stars": 4,
+          "bedrooms": 50,
+          "price": "$100-$200 per night"
+        },
+        {
+          "name": "Novem Eco Resort",
+          "title": "Rustic resort with treehouse bungalows",
+          "stars": 3,
+          "bedrooms": 30,
+          "price": "$50-$100 per night"
+        },
+        {
+          "name": "Green Hill Guest House",
+          "title": "Budget-friendly guest house with garden views",
+          "stars": 2,
+          "bedrooms": 20,
+          "price": "$20-$50 per night"
+        },
+        {
+          "name": "Tea Resort & Museum",
+          "title": "Quaint resort with tea museum",
+          "stars": 3,
+          "bedrooms": 30,
+          "price": "$50-$100 per night"
+        }
+      ]
+    },
+    {
+      "name": "Sundarbans",
+      "hotels": [
+        {
+          "name": "Sundarban Tiger Camp",
+          "title": "Eco-friendly camp with jungle views",
+          "stars": 3,
+          "bedrooms": 20,
+          "price": "$50-$100 per night"
+        },
+        {
+          "name": "Sundarban Riverside Resort",
+          "title": "Riverfront resort with outdoor pool",
+          "stars": 4,
+          "bedrooms": 40,
+          "price": "$100-$300 per night"
+        },
+        {
+          "name": "Sundarban Royal EcoResort",
+          "title": "Eco-friendly resort with river access",
+          "stars": 3,
+          "bedrooms": 30,
+          "price": "$50-$100 per night"
+        },
+        {
+          "name": "Sundarban Eco Village",
+          "title": "Resort with traditional thatched-roof bungalows",
+          "stars": 2,
+          "bedrooms": 25,
+          "price": "$20-$50 per night"
+        },
+        {
+          "name": "Sundarban Gateway Resort",
+          "title": "Secluded resort with river views",
+          "stars": 3,
+          "bedrooms": 20,
+          "price": "$50-$100 per night"
+        }
+      ]
+    },
+    {
+      "name": "Bandarban",
+      "hotels": [
+        {
+          "name": "Hill View Resort",
+          "title": "Mountain resort with panoramic views",
+          "stars": 3,
+          "bedrooms": 50,
+          "price": "$50-$100 per night"
+        },
+        {
+          "name": "Hillside Resort",
+          "title": "Secluded resort with hillside views",
+          "stars": 2,
+          "bedrooms": 30,
+          "price": "$20-$50 per night"
+        },
+        {
+          "name": "Hill Top Resort",
+          "title": "Resort with garden and mountain views",
+          "stars": 3,
+          "bedrooms": 40,
+          "price": "$50-$100 per night"
+        },
+        {
+          "name": "Sairu Hill Resorts",
+          "title": "Mountain resort with outdoor pool",
+          "stars": 4,
+          "bedrooms": 30,
+          "price": "$100-$300 per night"
+        },
+        {
+          "name": "Purbani Hotel & Resort",
+          "title": "Resort with hillside views and spa services",
+          "stars": 4,
+          "bedrooms": 60,
+          "price": "$100-$300 per night"
+        }
+      ]
+    },
+    {
+      "name": "Rangamati",
+      "hotels": [
+        {
+          "name": "Peda Ting Ting Eco Resort",
+          "title": "Eco-resort with lake views",
+          "stars": 3,
+          "bedrooms": 20,
+          "price": "$50-$100 per night"
+        },
+        {
+          "name": "Sufia Guest House",
+          "title": "Budget-friendly guest house with garden views",
+          "stars": 2,
+          "bedrooms": 15,
+          "price": "$20-$50 per night"
+        },
+        {
+          "name": "Rangamati Waterfront Resort",
+          "title": "Resort with lake and mountain views",
+          "stars": 3,
+          "bedrooms": 25,
+          "price": "$50-$100 per night"
+        },
+        {
+          "name": "Eco Panorama Resort",
+          "title": "Eco-friendly resort with lake views",
+          "stars": 3,
+          "bedrooms": 30,
+          "price": "$50-$100 per night"
+        },
+        {
+          "name": "Rangamati Hill View Resort",
+          "title": "Resort with mountain and lake views",
+          "stars": 3,
+          "bedrooms": 35,
+          "price": "$50-$100 per night"
+        }
+      ]
+    }
+  ]
+}
