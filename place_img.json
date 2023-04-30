@@ -2,24 +2,21 @@
     "tourist_places": [
       {
         "title": "Sundarbans",
-        "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sundarban_Tiger.jpg/800px-Sundarban_Tiger.jpg"
+        "img_url": "https://i.ibb.co/9Z44Hx4/sundorbon.png"
       },
       {
         "title": "Srimangal",
-        "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Srimangal_Beautiful_View_%285%29.jpg/800px-Srimangal_Beautiful_View_%285%29.jpg"
+        "img_url": "https://i.ibb.co/58YFy7f/Sreemongol.png"
       },
       {
         "title": "Cox's Bazar",
-        "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cox%27s_Bazar_Beach_in_Bangladesh.jpg/800px-Cox%27s_Bazar_Beach_in_Bangladesh.jpg"
+        "img_url": "https://i.ibb.co/xqPM3TS/Rectangle-1.png"
       },
       {
         "title": "Kuakata",
-        "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kuakata_panorama.jpg/800px-Kuakata_panorama.jpg"
-      },
-      {
-        "title": "Rangamati",
-        "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Rangamati_1.jpg/800px-Rangamati_1.jpg"
+        "img_url": "https://i.ibb.co/8dpzKkR/Rectangle-28.png"
       }
+      
     ]
   }
   
